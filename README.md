@@ -1,2 +1,2 @@
 # SotAsa.WebClient
-Contains information, news, games... about Canillas.
+Contains information, news, tips, games... about Canillas.
